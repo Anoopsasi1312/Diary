@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5edfe21-634c-4ce4-a2e8-2d9a51d77505" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Diary.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diary/2023-10-21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diary/2023-10-22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diary/2023-10-23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diary/2023-10-24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diary/2023-10-25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diary/2023-10-26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/diary/2023-10-27.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="a5edfe21-634c-4ce4-a2e8-2d9a51d77505" name="Changes" comment="Created diary sentiment analysis app">
+      <change beforePath="$PROJECT_DIR$/.idea/Diary.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Diary.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,17 +86,19 @@
       <option name="presentableId" value="Default" />
       <updated>1707629340541</updated>
     </task>
+    <task id="LOCAL-00001" summary="Created diary sentiment analysis app">
+      <option name="closed" value="true" />
+      <created>1707697850010</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707697850010</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>65</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created diary sentiment analysis app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created diary sentiment analysis app" />
   </component>
 </project>
